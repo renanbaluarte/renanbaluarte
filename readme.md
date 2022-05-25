@@ -5,6 +5,7 @@
 Possuo algum conhecimento: 😎
 * Python 3.0
 * JavaScript (em breve)
+* Arduino (C++)
 
 Desejo aprender: 💭
 * HTML
