@@ -14,7 +14,7 @@ Desejo aprender: 💭
 
 Eu também faço umas lives, quando tiver tempo, dá uma passada lá! 😉  
 
-[![N|Solid](https://cdn.iconscout.com/icon/free/png-256/twitch-7-282150.png)](twitch.tv/baluartetm)
+[![Build Status](https://cdn.discordapp.com/attachments/886270984489943111/979044565686304868/BaluarteTM.png)](https://www.twitch.tv/baluartetm)
 
 
 
