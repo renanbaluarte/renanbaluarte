@@ -2,7 +2,7 @@
 
 ## Prazer, eu sou Renan Ferreira! 🦊
 
-👨‍💻 Estudante de Ciências da Computação no 5º período, focado em desenvolvimento front-end.
+👨‍💻 Estudante de Ciências da Computação no 7º período, focado em desenvolvimento front-end.
 
 🎮 Compartilho experiências como streamer há 4 anos, explorando o vasto mundo dos jogos.
 
